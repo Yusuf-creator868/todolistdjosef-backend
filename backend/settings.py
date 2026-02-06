@@ -66,7 +66,7 @@ STORAGES = {
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://todolistdjosef-frontend.vercel.app"
+    "https://todolistdjosefprog-frontend.vercel.app"
 ]
 
 CORS_ALLOW_CREDENTIALS = True
